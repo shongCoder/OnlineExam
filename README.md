@@ -4,15 +4,13 @@
   * **제작 기간** : 24.08.02~08.07
   * **참여 인원** : 3명
 ## ✅ 사용한 기술 (기술 스택)
-Java, JSP, MriaDB
-- - -
-프로그래밍 언어 : Java - JDK v17
-데이터베이스 : MariaDB
-빌드 도구 : Gradle
-운영 체제 : Window 11
-형상 관리 도구 : Github
-실행 환경 : Apache v10.1.26
-개발 도구 : IntelliJ
+- 프로그래밍 언어 : Java - JDK v17
+- 데이터베이스 : MariaDB
+- 빌드 도구 : Gradle
+- 운영 체제 : Window 11
+- 형상 관리 도구 : Github
+- 실행 환경 : Apache v10.1.26
+- 개발 도구 : IntelliJ
 
 * **
 ## ✅ 핵심 기능 (코드로 보여주거나 코드 링크)
